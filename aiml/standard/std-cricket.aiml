@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<!-- Free software (c) 2001 ALICE AI Foundation -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License -->
+<!-- as published by the Free Software Foundation. -->
+
+<meta name="author" content="Dr. Wallace"/>
+<meta name="language" content="en"/>
+
+<category>
+<pattern>Hi</pattern>
+<template>
+Hi! How can I help you???
+</template>
+</category>
+
+<category>
+<pattern>What is CRICKET</pattern>
+<template>
+Cricket is a bat-and-ball game played between two teams of eleven players. Do you want to know more about it?
+</template>
+</category>
+
+<category>
+<pattern>Origin of CRICKET</pattern>
+<template>
+Cricket may have its origins with shepherds in England who devised the game as a way of passing the time while guarding their sheep.
+</template>
+</category>
+
+<category>
+<pattern>Who is Greatest bowler *</pattern>
+<template>
+Muralitharan
+</template>
+</category>
+
+
+<category>
+<pattern>* first game *</pattern>
+<template>
+The first game of cricket ever recorded took place in 1646.
+</template>
+</category>
+
+
+</aiml>
